@@ -1,4 +1,4 @@
-# Chronic-Kidney-Disease-Predictor
+# Chronic-Kidney-Disease-Prediction-Model
 
 ![image](https://images.unsplash.com/photo-1559757175-9e351c9a1301?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8S2lkbmV5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60)
 
